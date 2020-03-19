@@ -7,5 +7,5 @@
 
 ## Explanation for this rest assured API testing project
 Once we have this framework just need to write the test cases in Excel with below mentioned format.
-#Excel:
+# Excel:
 In first tab:
