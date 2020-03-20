@@ -40,3 +40,6 @@ we need to mention environment, auth details like (username and password)
 
 2. If we want to extract multiple values from responce we can mention with the sapration of enter (ALT+enter) example: result.id 
 _meta.code
+
+## Reports:
+In application.properties we have mention the path "Report= ./Reports/" with this Reports folder will be created in that location and reports will be saved with the time stamp as a reports name and based on the environement (Reports-> QA -> current time stamp report file)
