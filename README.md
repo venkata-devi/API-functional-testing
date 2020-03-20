@@ -19,10 +19,10 @@ we need to mention environment, auth details like (username and password)
 
 3.we can run selected scenarioes by using RUN coloumn for EX: In Run coloumn if we mention Y and In fisrt tab we have to mention "Selected" for Run it will run only that test cases which we have 'Y'. and If you wnat to run all the test cases you can mention All in the first tab.
 
-4. In status coloumn it will automatically mention all pass, fail and skip for testcases.
+4.In status coloumn it will automatically mention all pass, fail and skip for testcases.
 
 ### Third tab:
-1.#-- In this we have to mention scenraio number which we mention in second tab.
+1. #-- In this we have to mention scenraio number which we mention in second tab.
 
 2. Test step   -- test step name 
 
